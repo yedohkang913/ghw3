@@ -11,7 +11,7 @@ int main() {
 
   screen s;
   color c;
-  clean_screen(s);
+  clear_screen(s);
   struct matrix *edges;
 
   edges = new_matrix(4, 4);
