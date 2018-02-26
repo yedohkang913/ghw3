@@ -9,6 +9,7 @@
 
 int main() {
 
+  clear_screen;
   screen s;
   color c;
   struct matrix *edges;
